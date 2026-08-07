@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: movieservice
-          image: yklee2002/movieservice
+          image: punsophy678/movieservice
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
